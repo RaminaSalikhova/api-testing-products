@@ -35,4 +35,4 @@ The test suite will:
 2. Display test results
 3. If any defective products are found, they will be listed in the console output with details about the specific issues 
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/4e5dae6a-6480-4393-8ffd-e33629b50b36)
